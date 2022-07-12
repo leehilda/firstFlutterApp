@@ -1,4 +1,4 @@
-# i_am_rich
+# i_love_octopus
 
 A new Flutter project.
 
